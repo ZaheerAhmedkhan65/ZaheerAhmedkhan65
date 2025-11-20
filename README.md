@@ -67,11 +67,8 @@
 
 ## Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZaheerAhmedkhan65/ZaheerAhmedkhan65/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZaheerAhmedkhan65/ZaheerAhmedkhan65/blob/output/github-contribution-grid-snake.svg">
-  <img src="https://github.com/ZaheerAhmedkhan65/ZaheerAhmedkhan65/blob/output/snake-custom.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZaheerAhmedkhan65/ZaheerAhmedkhan65/blob/output/snake-hot-lava.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZaheerAhmedkhan65/ZaheerAhmedkhan65/blob/output/snake-hot-lava.svg">
+  <img src="https://github.com/ZaheerAhmedkhan65/ZaheerAhmedkhan65/blob/output/snake-hot-lava.svg">
 </picture>
-
-![snake gif](https://github.com/ZaheerAhmedkhan65/ZaheerAhmedkhan65/blob/output/github-contribution-grid-snake-gruvbox.svg)
-
 
