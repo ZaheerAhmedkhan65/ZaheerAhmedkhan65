@@ -67,4 +67,11 @@
 
 ## 🔗 Connect with Me
 
-<p align="center"> <a href="mailto:ranazaheerahmed65@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a> <a href="https://github.com/ZaheerAhmedkhan65"><img src="https://skillicons.dev/icons?i=github" width="48"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a> </p>
+<p align="center"> <a href="mailto:ranazaheerahmed65@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a> <a href="https://github.com/ZaheerAhmedkhan65"><img src="https://skillicons.dev/icons?i=github" width="48"/></a> <a href="https://www.linkedin.com/in/zaheer-ahmed-8a2506392/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a> <a href="https://dev.to/zaheer_ahmed_afa544c30811" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=devto" width="48" alt="Dev.to"/>
+</a></p>
+
+
+
+
+
