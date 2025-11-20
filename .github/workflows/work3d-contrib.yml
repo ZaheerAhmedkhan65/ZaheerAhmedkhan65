@@ -1,8 +1,8 @@
-name: 3D Contribution Graph
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # update daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,13 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate 3D contribution graph
-        uses: Ashutosh00710/github-readme-3d-contrib@v2.5
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@v1
         with:
           username: ZaheerAhmedkhan65
-          output_file: ./profile-3d-contrib.svg
+          output_file: profile-3d-contrib.svg
 
-      - name: Push graph to output branch
+      - name: Push Graph to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
