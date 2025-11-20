@@ -53,14 +53,15 @@
 
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZaheerAhmedkhan65&show_icons=true&theme=transparent" /> <img width="48%" src="https://streak-stats.demolab.com?user=ZaheerAhmedkhan65&theme=transparent" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaheerAhmedkhan65&layout=compact&theme=transparent" /> </p>
 
-## 🪄 3D Contribution Graph
+## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZaheerAhmedkhan65/ZaheerAhmedkhan65/output/profile-3d-contrib.svg" width="700">
+  <img src="https://github.com/ZaheerAhmedkhan65/ZaheerAhmedkhan65/blob/main/profile-3d-contrib/profile-season-animate.svg" width="700">
+  
 </p>
 
 
-## 🐍 Hot Lava Snake (Dark + Light Mode Auto)
+## Contribution grid
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZaheerAhmedkhan65/ZaheerAhmedkhan65/blob/output/snake-hot-lava.svg"> <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZaheerAhmedkhan65/ZaheerAhmedkhan65/blob/output/snake-hot-lava.svg"> <img alt="Github Snake Animation" src="https://github.com/ZaheerAhmedkhan65/ZaheerAhmedkhan65/blob/output/snake-hot-lava.svg"> </picture>
 
