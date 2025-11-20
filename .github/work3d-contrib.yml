@@ -1,0 +1,25 @@
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # update daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate 3D contribution graph
+        uses: Ashutosh00710/github-readme-3d-contrib@v2.5
+        with:
+          username: ZaheerAhmedkhan65
+          output_file: ./profile-3d-contrib.svg
+
+      - name: Push graph to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
