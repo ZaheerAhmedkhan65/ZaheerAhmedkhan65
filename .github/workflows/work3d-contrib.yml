@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Daily
   workflow_dispatch:
 
 jobs:
@@ -11,15 +11,15 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@v1
+      - name: Generate 3D Graph
+        uses: saraswatmks/github-profile-3d-contrib@master
         with:
           username: ZaheerAhmedkhan65
           output_file: profile-3d-contrib.svg
 
-      - name: Push Graph to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
