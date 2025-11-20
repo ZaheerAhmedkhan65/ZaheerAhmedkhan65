@@ -13,15 +13,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake - Light / Dark / Gruvbox
+      - name: Generate Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: ZaheerAhmedkhan65
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-gruvbox.svg?palette=gruvbox
-
+            dist/snake-light.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-gruvbox.svg?palette=gruvbox
+            dist/snake-hot-lava.svg?palette=hot-lava
+            dist/snake-custom.svg?palette=github-dark&color_snake=#ff4500,#ff2400,#ff0000&color_dots=#330000,#660000,#990000
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
