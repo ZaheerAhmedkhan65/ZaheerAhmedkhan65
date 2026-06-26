@@ -1,40 +1,14 @@
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Zaheer+Ahmed!;Full+Stack+Web+Developer+from+Pakistan;Building+Scalable+Modern+Web+Apps;" /> </div> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZaheerAhmedkhan65&label=Profile+Views&color=blue&style=flat" /> </p>
 
-## About Me
+
 <div align="center"> <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </div>
 
-### full-stack web developer
+## About Me
+### full-stack developer
 
--- build production-ready web apps
+-- build production-ready web and mobile apps
 
 -- Reach me anytime: ranazaheerahmed65@gmail.com
-
-## Badges & Achievements
-<p align="center"> <img src="https://img.shields.io/badge/Code%20With-Infinitidev-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge" /> </p>
-
-## Tech Stack
-
-### 🧩 Frontend Development
-
-| HTML | CSS | JavaScript | TypeScript | Bootstrap | Tailwind |
-| ---- | ---- | ------------- | ----------- | ------------ | --------- |
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐| ⭐⭐⭐⭐⭐ | ⭐⭐⭐|
-### 🧩 Backend Development
-
-| Node.js | Express | Ruby | Rails | Python | REST APIs  |
-| ------- | ------- | ----- | ------ | ------- | --------- |
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐|
-### 🧩 Databases
-
-| MySQL | PostgreSQL | SQLite | MongoDB |
-| ----- | ---------- | ------ | ------- |
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐  | ⭐⭐⭐ | ⭐⭐⭐⭐  |
-
-### 🧩 DevOps / Cloud
-
-| Git   | GitHub | Docker | Railway | Vercel | Heroku | Cloudflare | CI/CD |
-| ----- | ------ | ------ | ------- | ------ | ------ | ---------- | ------- |
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐  | ⭐⭐⭐  | ⭐⭐⭐⭐  | ⭐⭐⭐⭐   | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐  |
 
 ## GitHub Analytics
 
